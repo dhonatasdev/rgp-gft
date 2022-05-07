@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dhona\\Desktop\\diversos\\leila - recomeço\\gft\\gft.csproj",
+      "projectUniqueName": "c:\\Users\\dhona\\Desktop\\diversos\\leila - recomeço\\gft\\rgp-gft\\gft.csproj",
       "projectName": "gft",
-      "projectPath": "C:\\Users\\dhona\\Desktop\\diversos\\leila - recomeço\\gft\\gft.csproj",
+      "projectPath": "c:\\Users\\dhona\\Desktop\\diversos\\leila - recomeço\\gft\\rgp-gft\\gft.csproj",
       "packagesPath": "C:\\Users\\dhona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dhona\\Desktop\\diversos\\leila - recomeço\\gft\\obj\\",
+      "outputPath": "c:\\Users\\dhona\\Desktop\\diversos\\leila - recomeço\\gft\\rgp-gft\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
